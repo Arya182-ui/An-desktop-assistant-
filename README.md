@@ -74,3 +74,12 @@ To install and run **My Assistant**, follow these steps:
    ```sh
    git clone https://github.com/yourusername/your-repository-name.git
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+## Author
+
+
+[Ayush Gangwar](https://github.com/Arya182-ui)
