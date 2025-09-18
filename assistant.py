@@ -188,7 +188,7 @@ def username():
     speak("How can I help you, sir?")
     return uname
 
-#FUNCTION FOR SEND MAIL
+#function for emailsender with Smtp server if you want to use Smtp server first you have to create with your email provider
 def sendEmail(to, content):
     try:
         # Email account credentials (use environment variables for better security)
@@ -207,7 +207,7 @@ def sendEmail(to, content):
         # Attach the email content
         msg.attach(MIMEText(content, 'plain'))
         
-        # Connect to the server
+        # Connect to the server (Which You have create before)
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
         server.login(email_user, email_password)
@@ -1461,3 +1461,4 @@ if __name__ == "__main__":
             performTask(query.lower())
         else:
             speak("Sorry, I didn't understand that query.")
+
