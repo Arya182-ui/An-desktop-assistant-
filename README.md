@@ -19,6 +19,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=900&lines=🤖+Intelligent+Desktop+Assistant;🎤+Voice+Command+Recognition;📚+Legacy+Basic+Version;🚀+Upgraded+Version+Available" alt="Typing Animation" />
 </div>
 
+---
+
+<div align="center">
+  <p><strong>🔒 Archived on 20 January 2026</strong></p>
+  <p>
+    This project is no longer under active development.<br>
+    The repository remains available for reference and reuse.<br>
+    For questions or collaboration, please contact the maintainer.
+  </p>
+</div>
+
+
+
 ## 📢 **Important Notice - Updated Version Available**
 
 <div align="center">
